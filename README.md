@@ -83,8 +83,6 @@ cd School-Management
 python -m venv venv
 # Windows
 venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
 
 3. Install dependencies
 pip install -r requirements.txt
