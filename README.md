@@ -73,12 +73,8 @@ Details Panel
 
 
 
-
-
-
-⚠️ Replace the screenshots/ paths with actual screenshots from your project.
-
 🚀 Getting Started
+
 1. Clone the repository
 git clone https://github.com/franklinosuji2-afk/School-Management.git
 cd School-Management
